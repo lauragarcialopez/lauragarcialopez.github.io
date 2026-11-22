@@ -5,7 +5,7 @@ window.PORTFOLIO_CONTENT = {
     "heroTitle": "Hi, I'm Laura.",
     "heroLead": "I'm a biomedical engineering student at Columbia University who loves exploring how engineering and science can address some of the most pressing challenges in life sciences through innovation.",
     "heroNote": "I believe the most meaningful ideas begin with curiosity. Welcome to my journey as an engineer!",
-    "aboutIntro": "My journey has taken me from Spain to some of the most prestigious universities in the United States. Along the way, I've learned that the most rewarding experiences often begin when I step outside my comfort zone.",
+    "aboutIntro": "My journey has taken me from Spain to some of the most prestigious universities in the United States. Along the way, I've learned to embrace the unfamiliar, challenge myself, and appreciate the opportunities that come from stepping outside my comfort zone.",
     "beyondTitle": "More than engineering",
     "quote": "“I hope to keep learning, meet inspiring people, and help turn meaningful ideas into real-world impact.”",
     "contactTitle": "I'd love to hear from you.",
@@ -50,7 +50,7 @@ window.PORTFOLIO_CONTENT = {
   "photos": {
     "portrait": "me.jpg",
     "curiosity": "columbia.jpg",
-    "growth": "",
+    "growth": "images/growth-statue-of-liberty.jpg",
     "connection": "people.jpg",
     "seizure": "",
     "genomics": "",
