@@ -1,0 +1,1 @@
+Upload index.html, content.js, editor.html and images/ to your existing GitHub Pages repository. Keep existing personal photos and other assets. Remove resume.pdf from the repository if previously uploaded. Open index.html locally to preview.
